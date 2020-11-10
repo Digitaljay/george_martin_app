@@ -46,6 +46,7 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
                 break;
         }
         total.setText("Total number of killed today: "+counter);
+        System.out.println("Total number of killed today: "+counter);
     }
 
 
