@@ -1,0 +1,2 @@
+include ':george_martin_app'
+rootProject.name='FUN'
